@@ -1,3 +1,7 @@
+**Repository Moved**
+
+This repository has moved to [tseward/FarmLaunch](https://github.com/tseward/FarmLaunch).
+
 # Farm Launch
 
 ## What is this?
